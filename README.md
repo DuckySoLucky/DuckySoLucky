@@ -7,4 +7,4 @@
 🌐・**Website: [http://duckysolucky.only-fans.club/](http://duckysolucky.only-fans.club/)**
 
 <a href="http://duckysolucky.only-fans.club" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/486155512568741900.png"/></a>
-<a href="http://duckysolucky.only-fans.club" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<a href="http://duckysolucky.only-fans.club" target="_blank"><img src="https://github.com/DuckySoLucky/DuckySoLucky/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
