@@ -6,6 +6,5 @@
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuckySoLucky&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most%20Used%20Coding%20Languages" alt="DuckySoLucky" /> </p>
 🌐・**Website: [http://duckysolucky.only-fans.club/](http://duckysolucky.only-fans.club/)**
 
-<img src="https://github-readme-stats.vercel.app/api?username=DuckySoLucky&show_icons=true&theme=cobalt" alt="Profile Forks"></a>
-
+<a href="http://duckysolucky.only-fans.club" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/486155512568741900.png"/></a>
 <a href="http://duckysolucky.only-fans.club" target="_blank"><img src="https://github.com/DuckySoLucky/DuckySoLucky/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
