@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DuckySoLucky" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/DuckySoLucky" alt="Profile Forks"></a>
 
-📩・**Want to reach? Add [DuckySoLucky#5181](https://discord.com/users/486155512568741900) on [Discord](https://discord.gg/d6FmQuMCxP)**
+📩・**Want to reach? Add [@duckysolucky](https://discord.com/users/486155512568741900) on [Discord](https://discord.gg/d6FmQuMCxP)**
 </a> </p>
 🌐・**Website: [https://www.duckysolucky.com](http://www.duckysolucky.tech/)**
 
