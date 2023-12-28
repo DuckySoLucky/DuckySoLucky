@@ -4,7 +4,7 @@
 
 📩・**Want to reach? Add [@duckysolucky](https://discord.com/users/486155512568741900) on [Discord](https://discord.gg/d6FmQuMCxP)**
 </a> </p>
-🌐・**Website: [https://www.duckysolucky.com](http://www.duckysolucky.tech/)**
+🌐・**Website: [https://www.duckysolucky.com](https://duckysolucky.is-a.dev/)**
 
 <a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/486155512568741900.png"/></a>
 <a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU" target="_blank"><img src="https://github.com/DuckySoLucky/DuckySoLucky/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="sneke"></a>
